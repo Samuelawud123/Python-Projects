@@ -1,1 +1,1 @@
-# Python-Projects
+# CSC 110 python assignments
