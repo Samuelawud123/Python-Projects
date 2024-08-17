@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains all the assignments and projects from the CSC110 course, "Introduction to Programming with Python." These projects encompass a range of topics including file handling, GUI development, game creation, and financial simulations.
+This repository contains all the assignments from the CSC110 course, "Introduction to Programming with Python." These projects encompass a range of topics including file handling, GUI development, game creation, and financial simulations.
 
 ## Coursework
 
